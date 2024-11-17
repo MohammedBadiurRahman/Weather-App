@@ -65,7 +65,7 @@ body {
 }
 
 .search button img {
-    width: 25px;
+    width: 30px;
 }
 
 .weather-icon {
@@ -179,6 +179,7 @@ body {
     .search button {
         width: 35px;
         height: 35px;
+        padding: 10px;
     }
     .weather-icon {
         width: 100px;
