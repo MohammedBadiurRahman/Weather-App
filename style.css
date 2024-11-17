@@ -9,6 +9,7 @@
 body{
     background-color: #222;
     transition: all 0.5s;
+    
 }
 .heading{
     text-align: center;
@@ -27,10 +28,11 @@ body{
     padding: 40px 35px;
     text-align: center;
     transition: all 5s ease;
+    height : 90%dvh;
 
 }
 .search{
-    width: 100%;
+    width: 90%;
     display: flex;
     align-items: center;
     justify-content: space-between;
